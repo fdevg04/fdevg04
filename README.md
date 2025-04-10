@@ -1,3 +1,5 @@
+<img src="https://github.com/fdevg04/fdevg04/blob/4dffa1c373a26c8f1517b80cd7f85ff425cc7451/Banner%20GitHub%20(1280%20x%20300%20px).png" alt="GitHub Banner" style="width:100%;"/>
+
 # About Me:
 Computer Engineering student and Full Stack Developer with experience building scalable web applications using JavaScript, Python, Java, C++, React, Node.js, and Spring. Skilled in both frontend and backend development, database systems (PostgreSQL, MongoDB, MySQL, OracleDB), and tools like VS Code, IntelliJ, and PyCharm. Committed to delivering efficient, maintainable solutions that create real impact through technology.
 
