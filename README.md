@@ -6,7 +6,7 @@ Full Stack Developer with strong foundations in backend architecture, database s
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fer_gonzalez04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-ram%C3%B3n-88a88635a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fgonzalez04.dev@gmail.com) 
 
-## Tech Stack
+# Tech Stack:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
