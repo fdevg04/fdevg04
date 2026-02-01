@@ -1,7 +1,8 @@
 # <img src="https://github.com/fdevg04/fdevg04/blob/4dffa1c373a26c8f1517b80cd7f85ff425cc7451/Banner%20GitHub%20(1280%20x%20300%20px).png" alt="GitHub Banner" style="width:100%;"/>
 
 # About Me:
-Computer Engineering student and Full Stack Developer with experience building scalable web applications using JavaScript, Python, Java, C++, React, Node.js, and Spring. Skilled in both frontend and backend development, database systems (PostgreSQL, MongoDB, MySQL, OracleDB), and tools like VS Code, IntelliJ, and PyCharm. Committed to delivering efficient, maintainable solutions that create real impact through technology.
+Full Stack Developer with strong foundations in backend architecture, database systems, and software design. Experienced in building productiongrade web applications using the MERN stack, with emphasis on secure API development, authentication systems, and payment integrations. Skilled in clean code practices, performance optimization, and real-time data handling. Scrumcertified professional with academic background from Instituto Tecnológico de Costa Rica, eager to contribute to high-impact engineering teams.
+
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fer_gonzalez04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-ram%C3%B3n-88a88635a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fgonzalez04.dev@gmail.com) 
